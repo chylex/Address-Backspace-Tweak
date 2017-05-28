@@ -2,7 +2,7 @@
 <RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#">
 	<Description about="urn:mozilla:install-manifest">
 		<em:id>backspace-tweak@chylex.com</em:id>
-		<em:name>Backspace Tweak</em:name>
+		<em:name>Address Backspace Tweak</em:name>
 		<em:version>1.0</em:version>
 		<em:description>Tweaks Backspace in address bar to delete both the suggestion and the last typed character.</em:description>
 		<em:creator>chylex</em:creator>
