@@ -1,11 +1,11 @@
 var BSPCTWEAK = {
-	load: function(){
-		document.getElementById("urlbar").addEventListener("keydown", BSPCTWEAK.handleAddressBarKey);
-	},
-	
-	unload: function(){
-		document.getElementById("urlbar").removeEventListener("keydown", BSPCTWEAK.handleAddressBarKey);
-	},
+  load: function(){
+    document.getElementById("urlbar").addEventListener("keydown", BSPCTWEAK.handleAddressBarKey);
+  },
+  
+  unload: function(){
+    document.getElementById("urlbar").removeEventListener("keydown", BSPCTWEAK.handleAddressBarKey);
+  },
   
   handleAddressBarKey: function(e){
     var ele = e.target;
