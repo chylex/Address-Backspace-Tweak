@@ -1,2 +1,1 @@
-content backspace-tweak chrome/content/
-overlay chrome://browser/content/browser.xul chrome://backspace-tweak/content/overlay.xul
+content backspace-tweak ./
