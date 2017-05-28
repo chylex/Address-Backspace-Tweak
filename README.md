@@ -1,5 +1,7 @@
 Firefox addon that tweaks Backspace in address bar to remove both the suggestion and the last typed character.
 
+![](https://repo.chylex.com/address-backspace-tweak.gif)
+
 # Installation
 
 1. Visit [Releases](https://github.com/chylex/Address-Backspace-Tweak/releases)
